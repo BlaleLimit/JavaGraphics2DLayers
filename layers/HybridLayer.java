@@ -13,8 +13,8 @@ public class HybridLayer extends LayerUI<JComponent> {
     private float radius = 200f;
     private double x;
     private double y;
-    private final InitRandom xLoc = new InitRandom(0, 1100);
-    private final InitRandom yLoc = new InitRandom(0, 500);
+    private final InitRandom xLoc = new InitRandom(0, 1000);
+    private final InitRandom yLoc = new InitRandom(0, 1000);
     private final InitRandom rad = new InitRandom(150, 200);
     private final InitRandom vel = new InitRandom(-1, 1);
 
