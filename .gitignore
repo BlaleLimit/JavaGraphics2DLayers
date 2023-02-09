@@ -1,2 +1,4 @@
 .vscode/
-animation/
+bin/
+lib/
+src/animation/
